@@ -3,8 +3,8 @@ Number to french converter Class
 
 This is a javascript class that convert number to french words
 
----
-Usage: 
+
+## Usage: 
 
 <code>
 var converter= new num2word();
