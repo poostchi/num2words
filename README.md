@@ -1,10 +1,9 @@
-# num2words
-Number to french converter Class
+# Number to French Converter Class
 
 This is a javascript class that convert number to french words
 
 
-## Usage: 
+## Usage
 
 <code>
 var converter= new num2word();
